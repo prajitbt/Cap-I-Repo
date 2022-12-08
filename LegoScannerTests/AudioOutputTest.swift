@@ -1,10 +1,3 @@
-//
-//  AudioOutputTest.swift
-//  LegoScannerTests
-//
-//  Created by Suman on 11/27/22.
-//
-
 import XCTest
 @testable import LegoScanner
 
