@@ -1,10 +1,3 @@
-//
-//  LegoScannerTests.swift
-//  LegoScannerTests
-//
-//  Created by [Student-Name] on [Date].
-//
-
 import XCTest
 
 @testable import LegoScanner
