@@ -2,7 +2,7 @@
 //  LegoScannerUITests.swift
 //  LegoScannerUITests
 //
-//  Created by [Student_Namee] on [Date].
+//  Created by Prajit on 11/22.
 //
 
 import XCTest
