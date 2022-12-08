@@ -43,7 +43,7 @@ struct ContentView: View {
             
             VStack {
                 
-                Image(uiImage: image ?? UIImage(named: "noun-lego-3439")!)
+                Image(uiImage: image ?? UIImage(named: "vecteezy_purple-lego-block-isolated_")!)
                     .resizable()
                     .frame(width: 400, height: 350)
                 Text("\(classificationLabel)")
