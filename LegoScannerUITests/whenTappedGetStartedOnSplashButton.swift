@@ -2,7 +2,7 @@
 //  whenTappedGetStartedOnSplashButton.swift
 //  LegoScannerUITests
 //
-//  Created by [Student_Name] on Date.
+//  Created by Prajiton 11/22.
 //
 
 import XCTest
